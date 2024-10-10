@@ -15,3 +15,4 @@
 🔥
 ✨
 💙
+[CLI commands](docs/cli.md)
